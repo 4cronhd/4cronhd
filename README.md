@@ -4,7 +4,9 @@ corsac x hats
 - only works for those who have the same files
 - works with modded / unmodded (vanilla)
 
+
 you are installing 2 different things for this fyi !
+
 
 INSTRUCTIONS:
 
