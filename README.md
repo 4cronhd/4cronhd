@@ -23,3 +23,11 @@ INSTRUCTIONS:
 •  files to make see the hats!
 
 •  i'll be updating the .zip files overtime so watch for the next update
+
+Here's how your files suppose to look like
+
+Inside among us folder:
+![Screenshot (88)](https://user-images.githubusercontent.com/87746847/126848753-160b5eff-b4cd-449f-a60d-6fd79216a80d.png)
+
+Inside ur bepinex --> plugins folder
+![Screenshot (89)](https://user-images.githubusercontent.com/87746847/126848772-ff4b10c9-c6ab-4c4d-976e-958bcd02b1f4.png)
