@@ -1,7 +1,5 @@
-- hi im acron!
-- im 15 & does coding for fun:)
-- i will be working on some projects 
-& be testing stuff.
-- u can reach me out on my discord; acron#0001
-or my email codeacron@gmail.com
-- ty!
+corsac x hats
+- will be adding ALL streamer hats
+- follow instructions carefully
+- only works for those who have the same files
+- works with modded / unmodded (vanilla)
