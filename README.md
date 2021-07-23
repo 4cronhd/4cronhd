@@ -12,7 +12,7 @@ INSTRUCTIONS:
 
 • put the file in your among us folder / bepinex / plugins
 
-• next, instal the .zip --> [cronhats.zip](https://github.com/4cronhd/4cronhd/files/6871473/cronhats.zip)
+• next, install the .zip --> [cronhats.zip](https://github.com/4cronhd/4cronhd/files/6871473/cronhats.zip)
 
 • extract the .zip folder, and add it to your among us folder
 
