@@ -6,7 +6,4 @@ corsac x hats
 
 you are installing 2 different things for this fyi !
 
-got help from ; @SideSxope.chr#0001
-
-
 PLEASE read "INSTRUCTIONS (read this)" for instructions!!!
